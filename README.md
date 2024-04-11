@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Asha Kiran Devkota (github: @ashakiran07).
-- 👀 I’m interested in web development, plant biotechnology, language learning, writing, and continuous learning.
-- 🌱  I’m currently learning HTML, Git, JavaScript, Sinatra, jQuery, Rails, CSS, Front End, Ruby, SQL, MySQL.
+Asha Kiran Devkota/README.md
+
+👋 Hi, I’m Asha Kiran Devkota (github: @ashakiran07). I am a former plant biotechnologist turned to junior Web Developer, living in Berlin, Germany.
+- 👀 I’m interested in web development, programming, webpages/app building.
+- 🌱  I’m currently learning HTML, Git, JavaScript, Sinatra, jQuery, Rails, CSS, Front End, Ruby, SQL, MySQL. Working on personal peoject- Building a personal website, Plants and garden webpage to store infos on plants available
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me ...📩 aashahope01@gmail.com
 - 🔗 Follow the links below to check my projects :
