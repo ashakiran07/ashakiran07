@@ -1,4 +1,4 @@
-Asha Kiran Devkota/README.md
+
 
 👋 Hi, I’m Asha Kiran Devkota (github: @ashakiran07). I am a former plant biotechnologist turned to junior Web Developer, living in Berlin, Germany.
 - 👀 I’m interested in professional start in web development, programming, webpages/app building.
