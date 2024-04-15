@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Asha Kiran Devkota (github: @ashakiran07). I am a former plant biotechnologist turned to junior Web Developer, living in Berlin, Germany.
 - 👀 I’m interested in professional start in web development, programming, webpages/app building.
-- 🌱  I’m currently learning JavaScript, Sinatra, jQuery, Rails, Front End, Ruby, SQL, MySQL. Working on personal peoject- Building a personal website, Plants and garden webpage to store infos on plants and create plant database for users.
+- 🌱  I’m currently learning JavaScript, React/Next-js. Working on personal peoject- Building a personal website, Plants and garden webpage to store infos on plants and create plant database for users.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me ...📩 aashahope01@gmail.com
   
