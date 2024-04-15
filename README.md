@@ -2,19 +2,15 @@
 
 👋 Hi, I’m Asha Kiran Devkota, a former plant biotechnologist turned to junior Web Developer, living currently in Berlin, Germany.
 - 👀 I’m interested in professional start in web development, programming, webpages/app building.
-- 🌱  I’m currently learning JavaScript, React/Next-js. Working on personal project- Building a personal website, Plants and garden webpage to store infos on plants and create plant database for users.
+- 🌱  I’m currently learning JavaScript, React/Next-js. Plus working on personal rails project- Building a personal website on, Plants and garden webpage to store infos on plants and create plant database for users.
 - 💞️ I’m looking to collaborate on projects and  new job opportunities in the field of web development/programming.
 - 📫 How to reach me ...📩 aashahope01@gmail.com
   
 - 🔗 Follow the links below to check my projects :
-     Syncsparkle: one big challenge in the arena of event promotion, that is battling the labor-intensive task of manually posting across several platforms.
-        With one central application, Syncsparkle that helps post fairs, festivals, congresses, job fairs, company events or any other events, in different .
-        We offer customized solutions for your event type and target audience. Read for yourself what our customers think!
+     Syncsparkle: An event posting platform that allows user to create, manage and post their events integrating Eventbrite API and also invite people through their emails.
         Here's the link: (https://syncsparkleapp-c6ba66b7978d.herokuapp.com/)
+     Rent Vinyl: Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
 
-      Rent Vinyl: Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
-        
-  
 - ⚡ Fun fact: I am a good cook and I am currently enjoying a new hobby of making games using JS or simple HTML and css like Tic tac, Guess the words, etc. with lots of childhood memories.
   
 - 📝 I regularly write articles on: https://wordpress.com/home/aashahope07.wordpress.com
