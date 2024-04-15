@@ -15,7 +15,7 @@
       Rent Vinyl: Its a clone of Airbnb, a platform that helps users to rent or 
         https://rent-vinyl-18fe06e3c99a.herokuapp.com/
   
-- ⚡ Fun fact: Currently, I am enjoying making working on games like Tic tac, Guess the words, etc. with lots of childhood memories.
+- ⚡ Fun fact: Currently, I am enjoying making games using JS or simple HTML and css like Tic tac, Guess the words, etc. with lots of childhood memories.
 - 📝 I regularly write articles on: https://wordpress.com/home/aashahope07.wordpress.com
 
 <h3 align="left">Languages and Tools:</h3>
