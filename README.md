@@ -7,9 +7,9 @@
 - 📫 How to reach me ...📩 aashahope01@gmail.com
   
 - 🔗 Follow the links below to check my projects :
-     Syncsparkle: An event posting platform that allows user to create, manage and post their events integrating Eventbrite API and also invite people through their emails.
+     1. Syncsparkle: An event posting platform that allows user to create, manage and post their events integrating Eventbrite API and also invite people through their emails.
         Here's the link: (https://syncsparkleapp-c6ba66b7978d.herokuapp.com/)
-     Rent Vinyl: Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
+               2. Rent Vinyl: Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
 
 - ⚡ Fun fact: I am a good cook and I am currently enjoying a new hobby of making games using JS or simple HTML and css like Tic tac, Guess the words, etc. with lots of childhood memories.
   
