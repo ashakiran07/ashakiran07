@@ -6,11 +6,13 @@
 - 💞️ I’m looking to collaborate on projects and  new job opportunities in the field of web development/programming.
 - 📫 How to reach me ...📩 aashahope01@gmail.com
   
-- 🔗 Follow the links below to check my projects :
+- 🔗 Follow the links below to check my team projects :
      1. Syncsparkle: An event posting platform that allows user to create, manage and post their events integrating Eventbrite API and also invite people through their emails.
         Here's the link: (https://syncsparkleapp-c6ba66b7978d.herokuapp.com/)
         
      2. Rent Vinyl: Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
+        <img src="https://drive.google.com/uc?id=1MD29_X3JcbgVZ1FFx_9npYSSHIk46klz" alt="RentVinylProject" width="40" height="40"/>
+
 
 - ⚡ Fun fact: I am a good cook and I am currently enjoying a new hobby of making games using JS or simple HTML and css like Tic tac, Guess the words, etc. with lots of childhood memories.
   
@@ -28,4 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashakiran07&" alt="ashakiran07" /></p>
 
+![Asha Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashakiran07&show_icons=true&theme=radical)
 
