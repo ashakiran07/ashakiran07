@@ -7,11 +7,14 @@
 
 🔭 I’m currently working on **My Portfolio with React/Next JS**
 
-👀 I’m looking to collaborate on projects and  new job opportunities in the field of web development/programming/app building.
-
 💬 Ask me about **Ruby on Rails**
  
 📫 How to reach me ...📩 aashahope01@gmail.com
+
+🖼️ Check out my [portfolio](https://troopl.com/aashahope01)
+
+👀 I’m looking to collaborate on projects and  new job opportunities in the field of web development/programming/app building.
+
 <br>
   
 🔗 <h3 align="left">My bootcamp projects:</h3>
