@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asha</h1>
-<h3 align="center">An aspiring full stack developer</h3>
+<h3 align="center">An aspiring full stack developer from 🇳🇵 currently based in 🇩🇪</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dvgcwuo68/image/upload/v1713274802/giphy-ezgif.com-crop_a8mbwn.gif">
 <br>
 
@@ -13,22 +13,21 @@
 
 🖼️ Check out my [portfolio](https://troopl.com/aashahope01)
 
+📝  Checkout: [Wordpress](https://wordpress.com/home/aashahope07.wordpress.com) for my literary articles and 
+                                   [Medium](https://medium.com/@aashahope01) for my articles on tech stacks.
+
 👀 I’m looking to collaborate on projects and  new job opportunities in the field of web development/programming/app building.
 
 <br>
   
 🔗 <h3 align="left">My bootcamp projects:</h3>
-     1. Syncsparkle: An event posting platform that allows user to create, manage and post their events integrating Eventbrite API and also invite people through their emails.
-        Here's the github repo: [https://github.com/lae178456/syncsparkle]
-        **Heroku**: (https://syncsparkleapp-c6ba66b7978d.herokuapp.com/)
+     1. Rent a Vinyl: Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
+         Here's the cloned git repo: [Rent Vinyl Project](https://github.com/ashakiran07/airbnb_vinyl/tree/master)  
+     2. Syncsparkle: An event posting platform that allows user to create, manage and post their events integrating Eventbrite API and also invite people through their emails.
+        Here's the github repo: [Syncsparkle] (https://github.com/lae178456/syncsparkle)
+        **Heroku**: [Heroku](https://syncsparkleapp-c6ba66b7978d.herokuapp.com/)
 
-     2. Rent Vinyl: Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
-         Here's the cloned git repo: [Rent Vinyl Project][https://github.com/ashakiran07/airbnb_vinyl/tree/master]
-
-⚡ Fun fact: I am a good cook and I am currently enjoying a new hobby of making games using JS or simple HTML and css like Tic tac, Guess the words, etc. with lots of childhood memories.
-  
-- 📝 I regularly write articles on: My Literary articles: https://wordpress.com/home/aashahope07.wordpress.com
-                                   Based on Tech Learning: https://medium.com/@aashahope01
+⚡ Fun fact: I am a good cook.
 
 
 <h3 align="left">Connect with me:</h3>
