@@ -27,7 +27,8 @@
 
 ⚡ Fun fact: I am a good cook and I am currently enjoying a new hobby of making games using JS or simple HTML and css like Tic tac, Guess the words, etc. with lots of childhood memories.
   
-- 📝 I regularly write articles on: https://wordpress.com/home/aashahope07.wordpress.com
+- 📝 I regularly write articles on: My Literary articles: https://wordpress.com/home/aashahope07.wordpress.com
+                                   Based on Tech Learning: https://medium.com/@aashahope01
 
 
 <h3 align="left">Connect with me:</h3>
