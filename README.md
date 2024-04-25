@@ -10,9 +10,10 @@
 💬 Ask me about **Ruby on Rails**
  
 📫 How to reach me ...📩 aashahope01@gmail.com
-🔍 My Profile: [Profile](https://ashakiran07.github.io/profile/)
 
-🖼️ Details about my portfolio here: [portfolio](https://troopl.com/aashahope01)
+🔍 About me: [Profile](https://ashakiran07.github.io/profile/)
+
+🖼️ Detailed portfolio here: [portfolio](https://troopl.com/aashahope01)
 
 📝 Checkout: [Wordpress](https://wordpress.com/home/aashahope07.wordpress.com) for my literary articles and 
                                    [Medium](https://medium.com/@aashahope01) for my articles on tech stacks.
