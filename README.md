@@ -24,9 +24,9 @@
 <br>
   
 🔗 <h3 align="left">My bootcamp projects:</h3>
-     1. Rent a Vinyl: Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
+     1. **Rent a Vinyl:** Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
          [Rent Vinyl Project](https://github.com/ashakiran07/airbnb_vinyl/tree/master)  
-     2. Syncsparkle: An event posting platform that allows user to create, manage and post their events integrating Eventbrite API and also invite people through their emails.
+     2. **Syncsparkle:** An event posting platform that allows user to create, manage and post their events integrating Eventbrite API and also invite people through their emails.
          [Syncsparkle](https://github.com/lae178456/syncsparkle)
         **Heroku**: [Heroku](https://syncsparkleapp-c6ba66b7978d.herokuapp.com/)
 
