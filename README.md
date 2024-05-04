@@ -8,15 +8,13 @@
 
 🌱 I’m currently learning **React**
 
-🔭 I’m currently working on **My Portfolio with React/Next JS**
+🔭 I’m currently working on **My Portfolio with React/Next JS**. On progress:  [Portfolio](https://ashakiran07.github.io/profile/)
 
 💬 Ask me about **Ruby on Rails**
  
 📫 How to reach me ...📩 aashahope01@gmail.com
 
-🔍 About me: [Profile](https://ashakiran07.github.io/profile/)
-
-🖼️ Detailed portfolio here: [portfolio](https://troopl.com/aashahope01)
+🔍 About me:  [profile](https://troopl.com/aashahope01)
 
 📝 Checkout: [Wordpress](https://wordpress.com/home/aashahope07.wordpress.com) for my literary articles and 
                                    [Medium](https://medium.com/@aashahope01) for my articles on tech stacks.
