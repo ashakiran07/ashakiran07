@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **React** **Ruby** 
 
-🔭 I’m currently working on **My Portfolio with React/Next JS**. On progress:  [Portfolio](https://ashakiran07.github.io/profile/)
+🔭 I’m currently working on **My Portfolio with React/Next JS**. On progress:  [Portfolio](https://ashakirandevkota.com.np/)
 
 💬 Ask me about **Ruby on Rails**
  
