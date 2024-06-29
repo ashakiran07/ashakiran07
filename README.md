@@ -7,7 +7,7 @@
 <br>
 🌱 I’m currently learning **React/Docker** **Ruby** 
 
-🔭 I’m currently working on **My Portfolio with React/Next JS**. On progress:  [Portfolio](https://ashakirandevkota.com.np/)
+🔭 I’m currently working on **My Portfolio with React/Next JS**. On progress here:  [Portfolio](https://ashakirandevkota.com.np/)
 
 💬 Ask me about **Ruby on Rails**
  
