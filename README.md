@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashahope07&label=Profile%20views&color=0e75b6&style=flat" alt="aashahope07" /> </p>
 
 <br>
-🌱 I’m currently learning **React/Docker** **Ruby** 
+🌱 I’m currently learning **React/Docker** **Ruby** **AWS**
 
 🔭 I’m currently working on **My Portfolio with React/Next JS**. On progress here:  [Portfolio](https://ashakirandevkota.com.np/)
 
