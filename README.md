@@ -18,7 +18,6 @@
                                    [Medium](https://medium.com/@aashahope01) for my articles on tech stacks.
 
 👀 I’m looking to building new projects.
-
 <br>
 🔗 <h3 align="left">My bootcamp projects:</h3>
      1. **Rent a Vinyl:** Its a clone of Airbnb, a platform that helps users to rent or buy collector vinyls, upload pictures, see location and perform all CRUD actions.
