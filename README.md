@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asha</h1>
 
 <h3 align="center">An aspiring full stack developer from 🇳🇵 currently based in Berlin</h3>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" style="filter: grayscale(1) brightness(0.6) contrast(1.2) sepia(0.5) hue-rotate(270deg);"> <!-- Add the style attribute with CSS filters -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashahope07&label=Profile%20views&color=0e75b6&style=flat" alt="aashahope07" /> </p>
 <br>
